@@ -8,6 +8,7 @@ function preload(){
 }
 
 function setup(){
+createCanvas(400,400);
 //crea el objeto del juego
  Sofia= createSprite(20,25,18,18);  
 Sofia.shapeColor = "orange";
